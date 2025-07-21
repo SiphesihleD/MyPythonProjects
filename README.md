@@ -1,2 +1,2 @@
-# MyPythonProjects
-Contains projects that I've worked on using Python
+# MyProjects
+Contains projects I've worked on.
